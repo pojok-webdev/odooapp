@@ -1,0 +1,78 @@
+<div class="modal fade" id="addticket-modal-xl">
+    <div class="modal-dialog modal-xl">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Penambahan Ticket</h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="content-wrapperx">
+            <section class="content">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-6">
+                    <!-- general form elements -->
+                    <div class="card card-primary">
+                      <div class="card-header">
+                        <h3 class="card-title">Subscription, Site</h3>
+                      </div>
+                      <!-- /.card-header -->
+                      <!-- form start -->
+                      <form>
+                        <div class="card-body">
+                          <div class="form-group">
+                            <label for="subscriptionNumber">No Subscription</label>
+                            <select class="form-control" name="subscriptionNumber" id="subscriptionNumber" placeholder="Nomor Subscription">
+                            </select>
+                          </div>
+                          <div class="form-group">
+                            <label for="serviceNumber">Site</label>
+                            <select class="form-control" name="serviceNumber" id="serviceNumber" placeholder="Nomor Layanan"></select>
+                          </div>
+                        </div>
+                        <!-- /.card-body -->
+                      </form>
+                    </div>
+                    <!-- /.card -->
+                    <!-- Horizontal Form -->
+        
+                  </div>
+                  <!--/.col (left) -->
+                  <!-- right column -->
+                  <div class="col-md-6">
+                    <!-- Form Element sizes -->
+                    <div class="card card-success">
+                      <div class="card-header">
+                        <h3 class="card-title">Komplain</h3>
+                      </div>
+                      <div class="card-body">
+                        <label>Komplain</label>
+                        <select id="complainttype" class="form-control form-control-lg" type="text" placeholder=".form-control-lg">
+                        </select>
+                        <br>
+                        <label>Pelapor</label>
+                        <input class="form-control" type="text" placeholder="Nama Pelapor">
+                        <br>
+                        <label>Telp</label>
+                        <input class="form-control form-control-sm" type="text" placeholder="0888xxx">
+                      </div>
+                      <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                  </div>
+                        </div>
+              </div>
+            </section>
+          </div>
+        </div>
+        <div class="modal-footer justify-content-between">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button id="btnSaveTicket" type="button" class="btn btn-primary">Save changes</button>
+        </div>
+      </div>
+      <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+  </div>
