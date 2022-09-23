@@ -74,6 +74,12 @@ i.app.get('/showtickets',(req,res)=>{
         url:'gettickets/1/10'
     })
 })
+i.app.post('/saveticket',(req,res)=>{
+    params = req.body
+    i.rest.saveticket(params,result=>{
+        res.send(result)
+    })
+})
 i.functables.functs.forEach(element => {
     i.app.get('/'+element,(req,res)=>{
         i.rest[element]

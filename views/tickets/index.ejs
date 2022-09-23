@@ -338,7 +338,23 @@
     }
   })
   $('#btnSaveTicket').click(function(){
-    
+    console.log("selection",$("#subscriptionNumber").select2("data")[0].text)
+    console.log("reporter",$("#reportpic").val())
+    $.ajax({
+      url:'/saveticket',
+      type:'post',
+      dataType:'json',
+      data:{
+        "columns":[
+          {"key":"clientname","val":$("#subscriptionNumber").select2("data")[0].text},
+          {"key":"reporter","val":$("#reportpic").val()},
+          {"key":"client_site_id","val":$("#serviceNumber").select2("data")[0].id},
+          {"key":"client_id","val":$("#subscriptionNumber").select2("data")[0].id},
+          {"key":"reporterphone","val":$("#reporterphone").val()},
+          {"key":"complaint","val":$("#complainttype").select2("data")[0].id}
+        ]
+      }
+    })
   })
 </script>
 </body>

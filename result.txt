@@ -1,0 +1,1 @@
+curl -k -H 'Content-Type: application/json' -H 'Accept: application/json' -d '{"tableName":"tickets","columns":[{"key":"clientname","val":"hehe"},{"key":"reporter","val":"heho"}]}' -X POST https://localhost:2019/saveticket

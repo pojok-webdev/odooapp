@@ -178,6 +178,36 @@ getComplaints = callback => {
     callback(error)
   });
 
+  }
+  saveticket = (obj,callback) => {
+    var axios = require('axios');
+    var data = JSON.stringify({
+      "tableName":"tickets",
+      "columns":    obj.columns.map(col=>{
+        return {"key":col.key,"val":col.val}
+      })
+  
+    })
+    var config = {
+      method: 'post',
+      url: 'http://localhost:2019/saveticket',
+      headers: { 
+        'Content-Type': 'application/json', 
+        'Acc': 'application/json'
+      },
+      data : data
+    };
+
+    axios(config)
+    .then(function (response) {
+      console.log(JSON.stringify(response.data));
+      callback(response.data)
+    })
+    .catch(function (error) {
+      console.log(error);
+      callback(error)
+    });
+
 }
 module.exports = {
     auth:auth,
@@ -186,5 +216,6 @@ module.exports = {
     getSubscriptionFilter:getSubscriptionFilter,
     getTickets:getTickets,
     getLines:getLines,
-    getComplaints:getComplaints
+    getComplaints:getComplaints,
+    saveticket:saveticket
 }
