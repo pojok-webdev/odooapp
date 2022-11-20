@@ -1,0 +1,1576 @@
+{
+    "data": [
+        {
+            "id": 20042,
+            "display_name": "BUMIAYU",
+            "kecamatan_id": 1940,
+            "name": "BUMIAYU"
+        },
+        {
+            "id": 20043,
+            "display_name": "TANAH ABANG SELATAN",
+            "kecamatan_id": 1940,
+            "name": "TANAH ABANG SELATAN"
+        },
+        {
+            "id": 20044,
+            "display_name": "SUKA MANIS",
+            "kecamatan_id": 1940,
+            "name": "SUKA MANIS"
+        },
+        {
+            "id": 20045,
+            "display_name": "MUARA DUA",
+            "kecamatan_id": 1940,
+            "name": "MUARA DUA"
+        },
+        {
+            "id": 20046,
+            "display_name": "PETULAI",
+            "kecamatan_id": 1940,
+            "name": "PETULAI"
+        },
+        {
+            "id": 20047,
+            "display_name": "TANAH ABANG UTARA",
+            "kecamatan_id": 1940,
+            "name": "TANAH ABANG UTARA"
+        },
+        {
+            "id": 20048,
+            "display_name": "MUARA SUNGAI",
+            "kecamatan_id": 1940,
+            "name": "MUARA SUNGAI"
+        },
+        {
+            "id": 20049,
+            "display_name": "CURUP",
+            "kecamatan_id": 1940,
+            "name": "CURUP"
+        },
+        {
+            "id": 20050,
+            "display_name": "RAJA",
+            "kecamatan_id": 1940,
+            "name": "RAJA"
+        },
+        {
+            "id": 20051,
+            "display_name": "RAJA BARAT",
+            "kecamatan_id": 1940,
+            "name": "RAJA BARAT"
+        },
+        {
+            "id": 20052,
+            "display_name": "HARAPAN JAYA",
+            "kecamatan_id": 1940,
+            "name": "HARAPAN JAYA"
+        },
+        {
+            "id": 20053,
+            "display_name": "LUNAS JAYA",
+            "kecamatan_id": 1940,
+            "name": "LUNAS JAYA"
+        },
+        {
+            "id": 20054,
+            "display_name": "SUKARAJA",
+            "kecamatan_id": 1940,
+            "name": "SUKARAJA"
+        },
+        {
+            "id": 20055,
+            "display_name": "SEDUPI",
+            "kecamatan_id": 1940,
+            "name": "SEDUPI"
+        },
+        {
+            "id": 20056,
+            "display_name": "TANJUNG DALAM",
+            "kecamatan_id": 1940,
+            "name": "TANJUNG DALAM"
+        },
+        {
+            "id": 20057,
+            "display_name": "PANDAN",
+            "kecamatan_id": 1940,
+            "name": "PANDAN"
+        },
+        {
+            "id": 20058,
+            "display_name": "MODONG",
+            "kecamatan_id": 1940,
+            "name": "MODONG"
+        },
+        {
+            "id": 24976,
+            "display_name": "BATIN TIKAL",
+            "kecamatan_id": 1953,
+            "name": "BATIN TIKAL"
+        },
+        {
+            "id": 24977,
+            "display_name": "RAWA BANGUN",
+            "kecamatan_id": 1953,
+            "name": "RAWA BANGUN"
+        },
+        {
+            "id": 24978,
+            "display_name": "GEDUNG NASIONAL",
+            "kecamatan_id": 1953,
+            "name": "GEDUNG NASIONAL"
+        },
+        {
+            "id": 24979,
+            "display_name": "OPAS INDAH",
+            "kecamatan_id": 1953,
+            "name": "OPAS INDAH"
+        },
+        {
+            "id": 24980,
+            "display_name": "KEJAKSAAN",
+            "kecamatan_id": 1953,
+            "name": "KEJAKSAAN"
+        },
+        {
+            "id": 25403,
+            "display_name": "PULAU TIDUNG",
+            "kecamatan_id": 1918,
+            "name": "PULAU TIDUNG"
+        },
+        {
+            "id": 25404,
+            "display_name": "PULAU PARI",
+            "kecamatan_id": 1918,
+            "name": "PULAU PARI"
+        },
+        {
+            "id": 25405,
+            "display_name": "PULAU UNTUNG JAWA",
+            "kecamatan_id": 1918,
+            "name": "PULAU UNTUNG JAWA"
+        },
+        {
+            "id": 25406,
+            "display_name": "PULAU PANGGANG",
+            "kecamatan_id": 1919,
+            "name": "PULAU PANGGANG"
+        },
+        {
+            "id": 25407,
+            "display_name": "PULAU KELAPA",
+            "kecamatan_id": 1919,
+            "name": "PULAU KELAPA"
+        },
+        {
+            "id": 25408,
+            "display_name": "PULAU HARAPAN",
+            "kecamatan_id": 1919,
+            "name": "PULAU HARAPAN"
+        },
+        {
+            "id": 25409,
+            "display_name": "CIPEDAK",
+            "kecamatan_id": 1920,
+            "name": "CIPEDAK"
+        },
+        {
+            "id": 25410,
+            "display_name": "SRENGSENG SAWAH",
+            "kecamatan_id": 1920,
+            "name": "SRENGSENG SAWAH"
+        },
+        {
+            "id": 25411,
+            "display_name": "CIGANJUR",
+            "kecamatan_id": 1920,
+            "name": "CIGANJUR"
+        },
+        {
+            "id": 25412,
+            "display_name": "JAGAKARSA",
+            "kecamatan_id": 1920,
+            "name": "JAGAKARSA"
+        },
+        {
+            "id": 25413,
+            "display_name": "LENTENG AGUNG",
+            "kecamatan_id": 1920,
+            "name": "LENTENG AGUNG"
+        },
+        {
+            "id": 25414,
+            "display_name": "TANJUNG BARAT",
+            "kecamatan_id": 1920,
+            "name": "TANJUNG BARAT"
+        },
+        {
+            "id": 25415,
+            "display_name": "CILANDAK TIMUR",
+            "kecamatan_id": 1921,
+            "name": "CILANDAK TIMUR"
+        },
+        {
+            "id": 25416,
+            "display_name": "RAGUNAN",
+            "kecamatan_id": 1921,
+            "name": "RAGUNAN"
+        },
+        {
+            "id": 25417,
+            "display_name": "KEBAGUSAN",
+            "kecamatan_id": 1921,
+            "name": "KEBAGUSAN"
+        },
+        {
+            "id": 25418,
+            "display_name": "PASAR MINGGU",
+            "kecamatan_id": 1921,
+            "name": "PASAR MINGGU"
+        },
+        {
+            "id": 25419,
+            "display_name": "JATI PADANG",
+            "kecamatan_id": 1921,
+            "name": "JATI PADANG"
+        },
+        {
+            "id": 25420,
+            "display_name": "PEJATEN BARAT",
+            "kecamatan_id": 1921,
+            "name": "PEJATEN BARAT"
+        },
+        {
+            "id": 25421,
+            "display_name": "PEJATEN TIMUR",
+            "kecamatan_id": 1921,
+            "name": "PEJATEN TIMUR"
+        },
+        {
+            "id": 25422,
+            "display_name": "LEBAK BULUS",
+            "kecamatan_id": 1922,
+            "name": "LEBAK BULUS"
+        },
+        {
+            "id": 25423,
+            "display_name": "PONDOK LABU",
+            "kecamatan_id": 1922,
+            "name": "PONDOK LABU"
+        },
+        {
+            "id": 25424,
+            "display_name": "CILANDAK BARAT",
+            "kecamatan_id": 1922,
+            "name": "CILANDAK BARAT"
+        },
+        {
+            "id": 25425,
+            "display_name": "GANDARIA SELATAN",
+            "kecamatan_id": 1922,
+            "name": "GANDARIA SELATAN"
+        },
+        {
+            "id": 25426,
+            "display_name": "CIPETE SELATAN",
+            "kecamatan_id": 1922,
+            "name": "CIPETE SELATAN"
+        },
+        {
+            "id": 25427,
+            "display_name": "BINTARO",
+            "kecamatan_id": 1923,
+            "name": "BINTARO"
+        },
+        {
+            "id": 25428,
+            "display_name": "PESANGGRAHAN",
+            "kecamatan_id": 1923,
+            "name": "PESANGGRAHAN"
+        },
+        {
+            "id": 25429,
+            "display_name": "ULUJAMI",
+            "kecamatan_id": 1923,
+            "name": "ULUJAMI"
+        },
+        {
+            "id": 25430,
+            "display_name": "PETUKANGAN SELATAN",
+            "kecamatan_id": 1923,
+            "name": "PETUKANGAN SELATAN"
+        },
+        {
+            "id": 25431,
+            "display_name": "PETUKANGAN UTARA",
+            "kecamatan_id": 1923,
+            "name": "PETUKANGAN UTARA"
+        },
+        {
+            "id": 25432,
+            "display_name": "PONDOK PINANG",
+            "kecamatan_id": 1924,
+            "name": "PONDOK PINANG"
+        },
+        {
+            "id": 25433,
+            "display_name": "KEBAYORAN LAMA SELATAN",
+            "kecamatan_id": 1924,
+            "name": "KEBAYORAN LAMA SELATAN"
+        },
+        {
+            "id": 25434,
+            "display_name": "KEBAYORAN LAMA UTARA",
+            "kecamatan_id": 1924,
+            "name": "KEBAYORAN LAMA UTARA"
+        },
+        {
+            "id": 25435,
+            "display_name": "CIPULIR",
+            "kecamatan_id": 1924,
+            "name": "CIPULIR"
+        },
+        {
+            "id": 25436,
+            "display_name": "GROGOL SELATAN",
+            "kecamatan_id": 1924,
+            "name": "GROGOL SELATAN"
+        },
+        {
+            "id": 25437,
+            "display_name": "GROGOL UTARA",
+            "kecamatan_id": 1924,
+            "name": "GROGOL UTARA"
+        },
+        {
+            "id": 25438,
+            "display_name": "GANDARIA UTARA",
+            "kecamatan_id": 1925,
+            "name": "GANDARIA UTARA"
+        },
+        {
+            "id": 25439,
+            "display_name": "CIPETE UTARA",
+            "kecamatan_id": 1925,
+            "name": "CIPETE UTARA"
+        },
+        {
+            "id": 25440,
+            "display_name": "PULO",
+            "kecamatan_id": 1925,
+            "name": "PULO"
+        },
+        {
+            "id": 25441,
+            "display_name": "PETOGOGAN",
+            "kecamatan_id": 1925,
+            "name": "PETOGOGAN"
+        },
+        {
+            "id": 25442,
+            "display_name": "MELAWAI",
+            "kecamatan_id": 1925,
+            "name": "MELAWAI"
+        },
+        {
+            "id": 25443,
+            "display_name": "KRAMAT PELA",
+            "kecamatan_id": 1925,
+            "name": "KRAMAT PELA"
+        },
+        {
+            "id": 25444,
+            "display_name": "GUNUNG",
+            "kecamatan_id": 1925,
+            "name": "GUNUNG"
+        },
+        {
+            "id": 25445,
+            "display_name": "SELONG",
+            "kecamatan_id": 1925,
+            "name": "SELONG"
+        },
+        {
+            "id": 25446,
+            "display_name": "RAWA BARAT",
+            "kecamatan_id": 1925,
+            "name": "RAWA BARAT"
+        },
+        {
+            "id": 25447,
+            "display_name": "SENAYAN",
+            "kecamatan_id": 1925,
+            "name": "SENAYAN"
+        },
+        {
+            "id": 25448,
+            "display_name": "BANGKA",
+            "kecamatan_id": 1926,
+            "name": "BANGKA"
+        },
+        {
+            "id": 25449,
+            "display_name": "PELA MAMPANG",
+            "kecamatan_id": 1926,
+            "name": "PELA MAMPANG"
+        },
+        {
+            "id": 25450,
+            "display_name": "TEGAL PARANG",
+            "kecamatan_id": 1926,
+            "name": "TEGAL PARANG"
+        },
+        {
+            "id": 25451,
+            "display_name": "MAMPANG PRAPATAN",
+            "kecamatan_id": 1926,
+            "name": "MAMPANG PRAPATAN"
+        },
+        {
+            "id": 25452,
+            "display_name": "KUNINGAN BARAT",
+            "kecamatan_id": 1926,
+            "name": "KUNINGAN BARAT"
+        },
+        {
+            "id": 25453,
+            "display_name": "KALIBATA",
+            "kecamatan_id": 1927,
+            "name": "KALIBATA"
+        },
+        {
+            "id": 25454,
+            "display_name": "RAWAJATI",
+            "kecamatan_id": 1927,
+            "name": "RAWAJATI"
+        },
+        {
+            "id": 25455,
+            "display_name": "DUREN TIGA",
+            "kecamatan_id": 1927,
+            "name": "DUREN TIGA"
+        },
+        {
+            "id": 25456,
+            "display_name": "PANCORAN",
+            "kecamatan_id": 1927,
+            "name": "PANCORAN"
+        },
+        {
+            "id": 25457,
+            "display_name": "PENGADEGAN",
+            "kecamatan_id": 1927,
+            "name": "PENGADEGAN"
+        },
+        {
+            "id": 25458,
+            "display_name": "CIKOKO",
+            "kecamatan_id": 1927,
+            "name": "CIKOKO"
+        },
+        {
+            "id": 25459,
+            "display_name": "MENTENG DALAM",
+            "kecamatan_id": 1928,
+            "name": "MENTENG DALAM"
+        },
+        {
+            "id": 25460,
+            "display_name": "TEBET BARAT",
+            "kecamatan_id": 1928,
+            "name": "TEBET BARAT"
+        },
+        {
+            "id": 25461,
+            "display_name": "TEBET TIMUR",
+            "kecamatan_id": 1928,
+            "name": "TEBET TIMUR"
+        },
+        {
+            "id": 25462,
+            "display_name": "KEBON BARU",
+            "kecamatan_id": 1928,
+            "name": "KEBON BARU"
+        },
+        {
+            "id": 25463,
+            "display_name": "BUKIT DURI",
+            "kecamatan_id": 1928,
+            "name": "BUKIT DURI"
+        },
+        {
+            "id": 25464,
+            "display_name": "MANGGARAI SELATAN",
+            "kecamatan_id": 1928,
+            "name": "MANGGARAI SELATAN"
+        },
+        {
+            "id": 25465,
+            "display_name": "MANGGARAI",
+            "kecamatan_id": 1928,
+            "name": "MANGGARAI"
+        },
+        {
+            "id": 25466,
+            "display_name": "KARET SEMANGGI",
+            "kecamatan_id": 1929,
+            "name": "KARET SEMANGGI"
+        },
+        {
+            "id": 25467,
+            "display_name": "KUNINGAN TIMUR",
+            "kecamatan_id": 1929,
+            "name": "KUNINGAN TIMUR"
+        },
+        {
+            "id": 25468,
+            "display_name": "KARET KUNINGAN",
+            "kecamatan_id": 1929,
+            "name": "KARET KUNINGAN"
+        },
+        {
+            "id": 25469,
+            "display_name": "KARET",
+            "kecamatan_id": 1929,
+            "name": "KARET"
+        },
+        {
+            "id": 25470,
+            "display_name": "MENTENG ATAS",
+            "kecamatan_id": 1929,
+            "name": "MENTENG ATAS"
+        },
+        {
+            "id": 25471,
+            "display_name": "PASAR MANGGIS",
+            "kecamatan_id": 1929,
+            "name": "PASAR MANGGIS"
+        },
+        {
+            "id": 25472,
+            "display_name": "GUNTUR",
+            "kecamatan_id": 1929,
+            "name": "GUNTUR"
+        },
+        {
+            "id": 25473,
+            "display_name": "SETIA BUDI",
+            "kecamatan_id": 1929,
+            "name": "SETIA BUDI"
+        },
+        {
+            "id": 25474,
+            "display_name": "PEKAYON",
+            "kecamatan_id": 1930,
+            "name": "PEKAYON"
+        },
+        {
+            "id": 25475,
+            "display_name": "KALISARI",
+            "kecamatan_id": 1930,
+            "name": "KALISARI"
+        },
+        {
+            "id": 25476,
+            "display_name": "BARU",
+            "kecamatan_id": 1930,
+            "name": "BARU"
+        },
+        {
+            "id": 25477,
+            "display_name": "CIJANTUNG",
+            "kecamatan_id": 1930,
+            "name": "CIJANTUNG"
+        },
+        {
+            "id": 25478,
+            "display_name": "GEDONG",
+            "kecamatan_id": 1930,
+            "name": "GEDONG"
+        },
+        {
+            "id": 25479,
+            "display_name": "CIBUBUR",
+            "kecamatan_id": 1931,
+            "name": "CIBUBUR"
+        },
+        {
+            "id": 25480,
+            "display_name": "KELAPA DUA WETAN",
+            "kecamatan_id": 1931,
+            "name": "KELAPA DUA WETAN"
+        },
+        {
+            "id": 25481,
+            "display_name": "CIRACAS",
+            "kecamatan_id": 1931,
+            "name": "CIRACAS"
+        },
+        {
+            "id": 25482,
+            "display_name": "SUSUKAN",
+            "kecamatan_id": 1931,
+            "name": "SUSUKAN"
+        },
+        {
+            "id": 25483,
+            "display_name": "RAMBUTAN",
+            "kecamatan_id": 1931,
+            "name": "RAMBUTAN"
+        },
+        {
+            "id": 25492,
+            "display_name": "PINANG RANTI",
+            "kecamatan_id": 1933,
+            "name": "PINANG RANTI"
+        },
+        {
+            "id": 25493,
+            "display_name": "MAKASAR",
+            "kecamatan_id": 1933,
+            "name": "MAKASAR"
+        },
+        {
+            "id": 25494,
+            "display_name": "KEBON PALA",
+            "kecamatan_id": 1933,
+            "name": "KEBON PALA"
+        },
+        {
+            "id": 25495,
+            "display_name": "HALIM PERDANA KUSUMAH",
+            "kecamatan_id": 1933,
+            "name": "HALIM PERDANA KUSUMAH"
+        },
+        {
+            "id": 25496,
+            "display_name": "CIPINANG MELAYU",
+            "kecamatan_id": 1933,
+            "name": "CIPINANG MELAYU"
+        },
+        {
+            "id": 25497,
+            "display_name": "BALE KAMBANG",
+            "kecamatan_id": 1934,
+            "name": "BALE KAMBANG"
+        },
+        {
+            "id": 25498,
+            "display_name": "BATU AMPAR",
+            "kecamatan_id": 1934,
+            "name": "BATU AMPAR"
+        },
+        {
+            "id": 25499,
+            "display_name": "KAMPUNG TENGAH",
+            "kecamatan_id": 1934,
+            "name": "KAMPUNG TENGAH"
+        },
+        {
+            "id": 25500,
+            "display_name": "DUKUH",
+            "kecamatan_id": 1934,
+            "name": "DUKUH"
+        },
+        {
+            "id": 25501,
+            "display_name": "KRAMAT JATI",
+            "kecamatan_id": 1934,
+            "name": "KRAMAT JATI"
+        },
+        {
+            "id": 25502,
+            "display_name": "CILILITAN",
+            "kecamatan_id": 1934,
+            "name": "CILILITAN"
+        },
+        {
+            "id": 25503,
+            "display_name": "CAWANG",
+            "kecamatan_id": 1934,
+            "name": "CAWANG"
+        },
+        {
+            "id": 25512,
+            "display_name": "PONDOK BAMBU",
+            "kecamatan_id": 1936,
+            "name": "PONDOK BAMBU"
+        },
+        {
+            "id": 25513,
+            "display_name": "DUREN SAWIT",
+            "kecamatan_id": 1936,
+            "name": "DUREN SAWIT"
+        },
+        {
+            "id": 25514,
+            "display_name": "PONDOK KELAPA",
+            "kecamatan_id": 1936,
+            "name": "PONDOK KELAPA"
+        },
+        {
+            "id": 25515,
+            "display_name": "PONDOK KOPI",
+            "kecamatan_id": 1936,
+            "name": "PONDOK KOPI"
+        },
+        {
+            "id": 25516,
+            "display_name": "MALAKA JAYA",
+            "kecamatan_id": 1936,
+            "name": "MALAKA JAYA"
+        },
+        {
+            "id": 25517,
+            "display_name": "MALAKA SARI",
+            "kecamatan_id": 1936,
+            "name": "MALAKA SARI"
+        },
+        {
+            "id": 25518,
+            "display_name": "KLENDER",
+            "kecamatan_id": 1936,
+            "name": "KLENDER"
+        },
+        {
+            "id": 25519,
+            "display_name": "JATINEGARA",
+            "kecamatan_id": 1937,
+            "name": "JATINEGARA"
+        },
+        {
+            "id": 25520,
+            "display_name": "PENGGILINGAN",
+            "kecamatan_id": 1937,
+            "name": "PENGGILINGAN"
+        },
+        {
+            "id": 25521,
+            "display_name": "PULO GEBANG",
+            "kecamatan_id": 1937,
+            "name": "PULO GEBANG"
+        },
+        {
+            "id": 25522,
+            "display_name": "UJUNG MENTENG",
+            "kecamatan_id": 1937,
+            "name": "UJUNG MENTENG"
+        },
+        {
+            "id": 25523,
+            "display_name": "CAKUNG TIMUR",
+            "kecamatan_id": 1937,
+            "name": "CAKUNG TIMUR"
+        },
+        {
+            "id": 25524,
+            "display_name": "CAKUNG BARAT",
+            "kecamatan_id": 1937,
+            "name": "CAKUNG BARAT"
+        },
+        {
+            "id": 25525,
+            "display_name": "RAWA TERATE",
+            "kecamatan_id": 1937,
+            "name": "RAWA TERATE"
+        },
+        {
+            "id": 25526,
+            "display_name": "PISANGAN TIMUR",
+            "kecamatan_id": 1938,
+            "name": "PISANGAN TIMUR"
+        },
+        {
+            "id": 25527,
+            "display_name": "CIPINANG",
+            "kecamatan_id": 1938,
+            "name": "CIPINANG"
+        },
+        {
+            "id": 25528,
+            "display_name": "JATINEGARA KAUM",
+            "kecamatan_id": 1938,
+            "name": "JATINEGARA KAUM"
+        },
+        {
+            "id": 25529,
+            "display_name": "JATI",
+            "kecamatan_id": 1938,
+            "name": "JATI"
+        },
+        {
+            "id": 25530,
+            "display_name": "RAWAMANGUN",
+            "kecamatan_id": 1938,
+            "name": "RAWAMANGUN"
+        },
+        {
+            "id": 25531,
+            "display_name": "KAYU PUTIH",
+            "kecamatan_id": 1938,
+            "name": "KAYU PUTIH"
+        },
+        {
+            "id": 25532,
+            "display_name": "PULO GADUNG",
+            "kecamatan_id": 1938,
+            "name": "PULO GADUNG"
+        },
+        {
+            "id": 25533,
+            "display_name": "KEBON MANGGIS",
+            "kecamatan_id": 1939,
+            "name": "KEBON MANGGIS"
+        },
+        {
+            "id": 25534,
+            "display_name": "PAL MERIEM",
+            "kecamatan_id": 1939,
+            "name": "PAL MERIEM"
+        },
+        {
+            "id": 25535,
+            "display_name": "PISANGAN BARU",
+            "kecamatan_id": 1939,
+            "name": "PISANGAN BARU"
+        },
+        {
+            "id": 25536,
+            "display_name": "KAYU MANIS",
+            "kecamatan_id": 1939,
+            "name": "KAYU MANIS"
+        },
+        {
+            "id": 25537,
+            "display_name": "UTAN KAYU SELATAN",
+            "kecamatan_id": 1939,
+            "name": "UTAN KAYU SELATAN"
+        },
+        {
+            "id": 25538,
+            "display_name": "UTAN KAYU UTARA",
+            "kecamatan_id": 1939,
+            "name": "UTAN KAYU UTARA"
+        },
+        {
+            "id": 25539,
+            "display_name": "GELORA",
+            "kecamatan_id": 1940,
+            "name": "GELORA"
+        },
+        {
+            "id": 25540,
+            "display_name": "BENDUNGAN HILIR",
+            "kecamatan_id": 1940,
+            "name": "BENDUNGAN HILIR"
+        },
+        {
+            "id": 25541,
+            "display_name": "KARET TENGSIN",
+            "kecamatan_id": 1940,
+            "name": "KARET TENGSIN"
+        },
+        {
+            "id": 25542,
+            "display_name": "KEBON MELATI",
+            "kecamatan_id": 1940,
+            "name": "KEBON MELATI"
+        },
+        {
+            "id": 25543,
+            "display_name": "PETAMBURAN",
+            "kecamatan_id": 1940,
+            "name": "PETAMBURAN"
+        },
+        {
+            "id": 25544,
+            "display_name": "KEBON KACANG",
+            "kecamatan_id": 1940,
+            "name": "KEBON KACANG"
+        },
+        {
+            "id": 25545,
+            "display_name": "KAMPUNG BALI",
+            "kecamatan_id": 1940,
+            "name": "KAMPUNG BALI"
+        },
+        {
+            "id": 25546,
+            "display_name": "MENTENG",
+            "kecamatan_id": 1941,
+            "name": "MENTENG"
+        },
+        {
+            "id": 25547,
+            "display_name": "PEGANGSAAN",
+            "kecamatan_id": 1941,
+            "name": "PEGANGSAAN"
+        },
+        {
+            "id": 25548,
+            "display_name": "CIKINI",
+            "kecamatan_id": 1941,
+            "name": "CIKINI"
+        },
+        {
+            "id": 25549,
+            "display_name": "GONDANGDIA",
+            "kecamatan_id": 1941,
+            "name": "GONDANGDIA"
+        },
+        {
+            "id": 25550,
+            "display_name": "KEBON SIRIH",
+            "kecamatan_id": 1941,
+            "name": "KEBON SIRIH"
+        },
+        {
+            "id": 25551,
+            "display_name": "KENARI",
+            "kecamatan_id": 1942,
+            "name": "KENARI"
+        },
+        {
+            "id": 25552,
+            "display_name": "PASEBAN",
+            "kecamatan_id": 1942,
+            "name": "PASEBAN"
+        },
+        {
+            "id": 25553,
+            "display_name": "KRAMAT",
+            "kecamatan_id": 1942,
+            "name": "KRAMAT"
+        },
+        {
+            "id": 25554,
+            "display_name": "KWITANG",
+            "kecamatan_id": 1942,
+            "name": "KWITANG"
+        },
+        {
+            "id": 25555,
+            "display_name": "SENEN",
+            "kecamatan_id": 1942,
+            "name": "SENEN"
+        },
+        {
+            "id": 25556,
+            "display_name": "BUNGUR",
+            "kecamatan_id": 1942,
+            "name": "BUNGUR"
+        },
+        {
+            "id": 25557,
+            "display_name": "JOHAR BARU",
+            "kecamatan_id": 1943,
+            "name": "JOHAR BARU"
+        },
+        {
+            "id": 25558,
+            "display_name": "KAMPUNG RAWA",
+            "kecamatan_id": 1943,
+            "name": "KAMPUNG RAWA"
+        },
+        {
+            "id": 25559,
+            "display_name": "TANAH TINGGI",
+            "kecamatan_id": 1943,
+            "name": "TANAH TINGGI"
+        },
+        {
+            "id": 25560,
+            "display_name": "GALUR",
+            "kecamatan_id": 1943,
+            "name": "GALUR"
+        },
+        {
+            "id": 25561,
+            "display_name": "RAWA SARI",
+            "kecamatan_id": 1944,
+            "name": "RAWA SARI"
+        },
+        {
+            "id": 25562,
+            "display_name": "CEMPAKA PUTIH TIMUR",
+            "kecamatan_id": 1944,
+            "name": "CEMPAKA PUTIH TIMUR"
+        },
+        {
+            "id": 25563,
+            "display_name": "CEMPAKA PUTIH BARAT",
+            "kecamatan_id": 1944,
+            "name": "CEMPAKA PUTIH BARAT"
+        },
+        {
+            "id": 25564,
+            "display_name": "HARAPAN MULYA",
+            "kecamatan_id": 1945,
+            "name": "HARAPAN MULYA"
+        },
+        {
+            "id": 25565,
+            "display_name": "CEMPAKA BARU",
+            "kecamatan_id": 1945,
+            "name": "CEMPAKA BARU"
+        },
+        {
+            "id": 25566,
+            "display_name": "SUMUR BATU",
+            "kecamatan_id": 1945,
+            "name": "SUMUR BATU"
+        },
+        {
+            "id": 25567,
+            "display_name": "SERDANG",
+            "kecamatan_id": 1945,
+            "name": "SERDANG"
+        },
+        {
+            "id": 25568,
+            "display_name": "UTAN PANJANG",
+            "kecamatan_id": 1945,
+            "name": "UTAN PANJANG"
+        },
+        {
+            "id": 25569,
+            "display_name": "KEBON KOSONG",
+            "kecamatan_id": 1945,
+            "name": "KEBON KOSONG"
+        },
+        {
+            "id": 25570,
+            "display_name": "KEMAYORAN",
+            "kecamatan_id": 1945,
+            "name": "KEMAYORAN"
+        },
+        {
+            "id": 25571,
+            "display_name": "GUNUNG SAHARI SELATAN",
+            "kecamatan_id": 1945,
+            "name": "GUNUNG SAHARI SELATAN"
+        },
+        {
+            "id": 25572,
+            "display_name": "PASAR BARU",
+            "kecamatan_id": 1946,
+            "name": "PASAR BARU"
+        },
+        {
+            "id": 25573,
+            "display_name": "GUNUNG SAHARI UTARA",
+            "kecamatan_id": 1946,
+            "name": "GUNUNG SAHARI UTARA"
+        },
+        {
+            "id": 25574,
+            "display_name": "KARTINI",
+            "kecamatan_id": 1946,
+            "name": "KARTINI"
+        },
+        {
+            "id": 25575,
+            "display_name": "KARANG ANYAR",
+            "kecamatan_id": 1946,
+            "name": "KARANG ANYAR"
+        },
+        {
+            "id": 25576,
+            "display_name": "MANGGA DUA SELATAN",
+            "kecamatan_id": 1946,
+            "name": "MANGGA DUA SELATAN"
+        },
+        {
+            "id": 25577,
+            "display_name": "CIDENG",
+            "kecamatan_id": 1947,
+            "name": "CIDENG"
+        },
+        {
+            "id": 25578,
+            "display_name": "PETOJO SELATAN",
+            "kecamatan_id": 1947,
+            "name": "PETOJO SELATAN"
+        },
+        {
+            "id": 25579,
+            "display_name": "GAMBIR",
+            "kecamatan_id": 1947,
+            "name": "GAMBIR"
+        },
+        {
+            "id": 25580,
+            "display_name": "KEBON KELAPA",
+            "kecamatan_id": 1947,
+            "name": "KEBON KELAPA"
+        },
+        {
+            "id": 25581,
+            "display_name": "PETOJO UTARA",
+            "kecamatan_id": 1947,
+            "name": "PETOJO UTARA"
+        },
+        {
+            "id": 25582,
+            "display_name": "DURI PULO",
+            "kecamatan_id": 1947,
+            "name": "DURI PULO"
+        },
+        {
+            "id": 25583,
+            "display_name": "JOGLO",
+            "kecamatan_id": 1948,
+            "name": "JOGLO"
+        },
+        {
+            "id": 25584,
+            "display_name": "SRENGSENG",
+            "kecamatan_id": 1948,
+            "name": "SRENGSENG"
+        },
+        {
+            "id": 25585,
+            "display_name": "MERUYA SELATAN",
+            "kecamatan_id": 1948,
+            "name": "MERUYA SELATAN"
+        },
+        {
+            "id": 25586,
+            "display_name": "MERUYA UTARA",
+            "kecamatan_id": 1948,
+            "name": "MERUYA UTARA"
+        },
+        {
+            "id": 25587,
+            "display_name": "KEMBANGAN SELATAN",
+            "kecamatan_id": 1948,
+            "name": "KEMBANGAN SELATAN"
+        },
+        {
+            "id": 25588,
+            "display_name": "KEMBANGAN UTARA",
+            "kecamatan_id": 1948,
+            "name": "KEMBANGAN UTARA"
+        },
+        {
+            "id": 25589,
+            "display_name": "SUKABUMI SELATAN",
+            "kecamatan_id": 1949,
+            "name": "SUKABUMI SELATAN"
+        },
+        {
+            "id": 25590,
+            "display_name": "SUKABUMI UTARA",
+            "kecamatan_id": 1949,
+            "name": "SUKABUMI UTARA"
+        },
+        {
+            "id": 25591,
+            "display_name": "KELAPA DUA",
+            "kecamatan_id": 1949,
+            "name": "KELAPA DUA"
+        },
+        {
+            "id": 25592,
+            "display_name": "KEBON JERUK",
+            "kecamatan_id": 1949,
+            "name": "KEBON JERUK"
+        },
+        {
+            "id": 25593,
+            "display_name": "DURI KEPA",
+            "kecamatan_id": 1949,
+            "name": "DURI KEPA"
+        },
+        {
+            "id": 25594,
+            "display_name": "KEDOYA SELATAN",
+            "kecamatan_id": 1949,
+            "name": "KEDOYA SELATAN"
+        },
+        {
+            "id": 25595,
+            "display_name": "KEDOYA UTARA",
+            "kecamatan_id": 1949,
+            "name": "KEDOYA UTARA"
+        },
+        {
+            "id": 25596,
+            "display_name": "PALMERAH",
+            "kecamatan_id": 1950,
+            "name": "PALMERAH"
+        },
+        {
+            "id": 25597,
+            "display_name": "SLIPI",
+            "kecamatan_id": 1950,
+            "name": "SLIPI"
+        },
+        {
+            "id": 25598,
+            "display_name": "KEMANGGISAN",
+            "kecamatan_id": 1950,
+            "name": "KEMANGGISAN"
+        },
+        {
+            "id": 25599,
+            "display_name": "KOTA BAMBU UTARA",
+            "kecamatan_id": 1950,
+            "name": "KOTA BAMBU UTARA"
+        },
+        {
+            "id": 25600,
+            "display_name": "KOTA BAMBU SELATAN",
+            "kecamatan_id": 1950,
+            "name": "KOTA BAMBU SELATAN"
+        },
+        {
+            "id": 25601,
+            "display_name": "JATI PULO",
+            "kecamatan_id": 1950,
+            "name": "JATI PULO"
+        },
+        {
+            "id": 25602,
+            "display_name": "TANJUNG DUREN UTARA",
+            "kecamatan_id": 1951,
+            "name": "TANJUNG DUREN UTARA"
+        },
+        {
+            "id": 25603,
+            "display_name": "TANJUNG DUREN SELATAN",
+            "kecamatan_id": 1951,
+            "name": "TANJUNG DUREN SELATAN"
+        },
+        {
+            "id": 25604,
+            "display_name": "TOMANG",
+            "kecamatan_id": 1951,
+            "name": "TOMANG"
+        },
+        {
+            "id": 25605,
+            "display_name": "GROGOL",
+            "kecamatan_id": 1951,
+            "name": "GROGOL"
+        },
+        {
+            "id": 25606,
+            "display_name": "JELAMBAR",
+            "kecamatan_id": 1951,
+            "name": "JELAMBAR"
+        },
+        {
+            "id": 25607,
+            "display_name": "WIJAYA KESUMA",
+            "kecamatan_id": 1951,
+            "name": "WIJAYA KESUMA"
+        },
+        {
+            "id": 25608,
+            "display_name": "JELAMBAR BARU",
+            "kecamatan_id": 1951,
+            "name": "JELAMBAR BARU"
+        },
+        {
+            "id": 25620,
+            "display_name": "KRUKUT",
+            "kecamatan_id": 1953,
+            "name": "KRUKUT"
+        },
+        {
+            "id": 25621,
+            "display_name": "MAPHAR",
+            "kecamatan_id": 1953,
+            "name": "MAPHAR"
+        },
+        {
+            "id": 25622,
+            "display_name": "TAMAN SARI",
+            "kecamatan_id": 1953,
+            "name": "TAMAN SARI"
+        },
+        {
+            "id": 25623,
+            "display_name": "TANGKI",
+            "kecamatan_id": 1953,
+            "name": "TANGKI"
+        },
+        {
+            "id": 25624,
+            "display_name": "MANGGA BESAR",
+            "kecamatan_id": 1953,
+            "name": "MANGGA BESAR"
+        },
+        {
+            "id": 25625,
+            "display_name": "KEAGUNGAN",
+            "kecamatan_id": 1953,
+            "name": "KEAGUNGAN"
+        },
+        {
+            "id": 25626,
+            "display_name": "GLODOK",
+            "kecamatan_id": 1953,
+            "name": "GLODOK"
+        },
+        {
+            "id": 25627,
+            "display_name": "PINANGSIA",
+            "kecamatan_id": 1953,
+            "name": "PINANGSIA"
+        },
+        {
+            "id": 25628,
+            "display_name": "DURI KOSAMBI",
+            "kecamatan_id": 1954,
+            "name": "DURI KOSAMBI"
+        },
+        {
+            "id": 25629,
+            "display_name": "RAWA BUAYA",
+            "kecamatan_id": 1954,
+            "name": "RAWA BUAYA"
+        },
+        {
+            "id": 25630,
+            "display_name": "KEDAUNG KALI ANGKE",
+            "kecamatan_id": 1954,
+            "name": "KEDAUNG KALI ANGKE"
+        },
+        {
+            "id": 25631,
+            "display_name": "KAPUK",
+            "kecamatan_id": 1954,
+            "name": "KAPUK"
+        },
+        {
+            "id": 25632,
+            "display_name": "CENGKARENG TIMUR",
+            "kecamatan_id": 1954,
+            "name": "CENGKARENG TIMUR"
+        },
+        {
+            "id": 25633,
+            "display_name": "CENGKARENG BARAT",
+            "kecamatan_id": 1954,
+            "name": "CENGKARENG BARAT"
+        },
+        {
+            "id": 25634,
+            "display_name": "SEMANAN",
+            "kecamatan_id": 1955,
+            "name": "SEMANAN"
+        },
+        {
+            "id": 25635,
+            "display_name": "KALIDERES",
+            "kecamatan_id": 1955,
+            "name": "KALIDERES"
+        },
+        {
+            "id": 25636,
+            "display_name": "PEGADUNGAN",
+            "kecamatan_id": 1955,
+            "name": "PEGADUNGAN"
+        },
+        {
+            "id": 25637,
+            "display_name": "TEGAL ALUR",
+            "kecamatan_id": 1955,
+            "name": "TEGAL ALUR"
+        },
+        {
+            "id": 25638,
+            "display_name": "KAMAL",
+            "kecamatan_id": 1955,
+            "name": "KAMAL"
+        },
+        {
+            "id": 25639,
+            "display_name": "KAMAL MUARA",
+            "kecamatan_id": 1956,
+            "name": "KAMAL MUARA"
+        },
+        {
+            "id": 25640,
+            "display_name": "KAPUK MUARA",
+            "kecamatan_id": 1956,
+            "name": "KAPUK MUARA"
+        },
+        {
+            "id": 25641,
+            "display_name": "PEJAGALAN",
+            "kecamatan_id": 1956,
+            "name": "PEJAGALAN"
+        },
+        {
+            "id": 25642,
+            "display_name": "PENJARINGAN",
+            "kecamatan_id": 1956,
+            "name": "PENJARINGAN"
+        },
+        {
+            "id": 25643,
+            "display_name": "PLUIT",
+            "kecamatan_id": 1956,
+            "name": "PLUIT"
+        },
+        {
+            "id": 25644,
+            "display_name": "PADEMANGAN BARAT",
+            "kecamatan_id": 1957,
+            "name": "PADEMANGAN BARAT"
+        },
+        {
+            "id": 25645,
+            "display_name": "PADEMANGAN TIMUR",
+            "kecamatan_id": 1957,
+            "name": "PADEMANGAN TIMUR"
+        },
+        {
+            "id": 25646,
+            "display_name": "ANCOL",
+            "kecamatan_id": 1957,
+            "name": "ANCOL"
+        },
+        {
+            "id": 25647,
+            "display_name": "SUNTER AGUNG",
+            "kecamatan_id": 1958,
+            "name": "SUNTER AGUNG"
+        },
+        {
+            "id": 25648,
+            "display_name": "SUNTER JAYA",
+            "kecamatan_id": 1958,
+            "name": "SUNTER JAYA"
+        },
+        {
+            "id": 25649,
+            "display_name": "PAPANGO",
+            "kecamatan_id": 1958,
+            "name": "PAPANGO"
+        },
+        {
+            "id": 25650,
+            "display_name": "WARAKAS",
+            "kecamatan_id": 1958,
+            "name": "WARAKAS"
+        },
+        {
+            "id": 25651,
+            "display_name": "SUNGAI BAMBU",
+            "kecamatan_id": 1958,
+            "name": "SUNGAI BAMBU"
+        },
+        {
+            "id": 25652,
+            "display_name": "KEBON BAWANG",
+            "kecamatan_id": 1958,
+            "name": "KEBON BAWANG"
+        },
+        {
+            "id": 25653,
+            "display_name": "TANJUNG PRIUK",
+            "kecamatan_id": 1958,
+            "name": "TANJUNG PRIUK"
+        },
+        {
+            "id": 25654,
+            "display_name": "RAWABADAK SELATAN",
+            "kecamatan_id": 1959,
+            "name": "RAWABADAK SELATAN"
+        },
+        {
+            "id": 25655,
+            "display_name": "TUGU SELATAN",
+            "kecamatan_id": 1959,
+            "name": "TUGU SELATAN"
+        },
+        {
+            "id": 25656,
+            "display_name": "TUGU UTARA",
+            "kecamatan_id": 1959,
+            "name": "TUGU UTARA"
+        },
+        {
+            "id": 25657,
+            "display_name": "LAGOA",
+            "kecamatan_id": 1959,
+            "name": "LAGOA"
+        },
+        {
+            "id": 25658,
+            "display_name": "RAWABADAK UTARA",
+            "kecamatan_id": 1959,
+            "name": "RAWABADAK UTARA"
+        },
+        {
+            "id": 25659,
+            "display_name": "KOJA",
+            "kecamatan_id": 1959,
+            "name": "KOJA"
+        },
+        {
+            "id": 25660,
+            "display_name": "KELAPA GADING BARAT",
+            "kecamatan_id": 1960,
+            "name": "KELAPA GADING BARAT"
+        },
+        {
+            "id": 25661,
+            "display_name": "KELAPA GADING TIMUR",
+            "kecamatan_id": 1960,
+            "name": "KELAPA GADING TIMUR"
+        },
+        {
+            "id": 25662,
+            "display_name": "PEGANGSAAN DUA",
+            "kecamatan_id": 1960,
+            "name": "PEGANGSAAN DUA"
+        },
+        {
+            "id": 25663,
+            "display_name": "SUKA PURA",
+            "kecamatan_id": 1961,
+            "name": "SUKA PURA"
+        },
+        {
+            "id": 25664,
+            "display_name": "ROROTAN",
+            "kecamatan_id": 1961,
+            "name": "ROROTAN"
+        },
+        {
+            "id": 25665,
+            "display_name": "MARUNDA",
+            "kecamatan_id": 1961,
+            "name": "MARUNDA"
+        },
+        {
+            "id": 25666,
+            "display_name": "CILINCING",
+            "kecamatan_id": 1961,
+            "name": "CILINCING"
+        },
+        {
+            "id": 25667,
+            "display_name": "SEMPER TIMUR",
+            "kecamatan_id": 1961,
+            "name": "SEMPER TIMUR"
+        },
+        {
+            "id": 25668,
+            "display_name": "SEMPER BARAT",
+            "kecamatan_id": 1961,
+            "name": "SEMPER BARAT"
+        },
+        {
+            "id": 25669,
+            "display_name": "KALI BARU",
+            "kecamatan_id": 1961,
+            "name": "KALI BARU"
+        }
+    ]
+}

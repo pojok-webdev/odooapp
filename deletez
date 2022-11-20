@@ -1,0 +1,16 @@
+{"count":6,"prev":null,"current":1,"next":null,"total_pages":1,
+"result":
+    [{
+        "id":50,
+        "company_id":{"id":1,"name":"PadiNet"},
+        "partner_id":{"id":3423,"name":"PT. Jaya Perkasa Indonesia"},
+        "name":"SUB051",
+        "display_name":"01MON/SUB051 - PT. Jaya Perkasa Indonesia",
+        "recurring_invoice_line_ids":[
+            {
+            "name":"[IDF995K100] Dedicated FO Kapasitas 100",
+            "display_name":"[IDF995K100] Dedicated FO Kapasitas 100"}]
+            },
+            {"id":51,"company_id":{"id":1,"name":"PadiNet"},"partner_id":{"id":2864,"name":"ADI SURYA SEMPURNA, PT"},"name":"SUB052","display_name":"01MON/SUB052 - ADI SURYA SEMPURNA, PT",
+            
+        "recurring_invoice_line_ids":[{"name":"[IDW950K005] Dedicated Wireless 95 Kapasitas 5","display_name":"[IDW950K005] Dedicated Wireless 95 Kapasitas 5"}]},{"id":52,"company_id":{"id":1,"name":"PadiNet"},"partner_id":{"id":2864,"name":"ADI SURYA SEMPURNA, PT"},"name":"SUB053","display_name":"01MON/SUB053 - ADI SURYA SEMPURNA, PT","recurring_invoice_line_ids":[{"name":"[IDW950K005] Dedicated Wireless 95 Kapasitas 5","display_name":"[IDW950K005] Dedicated Wireless 95 Kapasitas 5"}]},{"id":53,"company_id":{"id":1,"name":"PadiNet"},"partner_id":{"id":2901,"name":"BADAN PENDAPATAN DAERAH PROVINSI JAWA TIMUR"},"name":"SUB054","display_name":"01MON/SUB054 - BADAN PENDAPATAN DAERAH PROVINSI JAWA TIMUR","recurring_invoice_line_ids":[{"name":"[IDF995K020] Dedicated FO Kapasitas 20","display_name":"[IDF995K020] Dedicated FO Kapasitas 20"}]},{"id":54,"company_id":{"id":1,"name":"PadiNet"},"partner_id":{"id":2901,"name":"BADAN PENDAPATAN DAERAH PROVINSI JAWA TIMUR"},"name":"SUB055","display_name":"01MON/SUB055 - BADAN PENDAPATAN DAERAH PROVINSI JAWA TIMUR","recurring_invoice_line_ids":[{"name":"Dedicated Wireless 99 Kapasitas 20 (01)\n\nRecurring Month: 01: ","display_name":"Dedicated Wireless 99 Kapasitas 20 (01)\n\nRecurring Month: 01: "}]},{"id":55,"company_id":{"id":1,"name":"PadiNet"},"partner_id":{"id":2869,"name":"AGRINDO, PT"},"name":"SUB056","display_name":"01MON/SUB056 - AGRINDO, PT","recurring_invoice_line_ids":[{"name":"[IFW995K020] Dedicated FO 20 Backup Wireless","display_name":"[IFW995K020] Dedicated FO 20 Backup Wireless"}]}]}

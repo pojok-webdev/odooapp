@@ -1,4 +1,33 @@
-auth = obj => {
+authenticate = (obj,callback) => {
+  var axios = require('axios');
+  var data = JSON.stringify({
+    "params": {
+      "login": obj.login,//"sonyse@gmail.com",
+      "password": obj.password,//"Sn9ijn123",
+      "db": "padish"//"kapesolusi"
+    }
+  });
+
+  var config = {
+    method: 'post',
+    url: 'https://odoo.kapesolusi.work/auth',
+    headers: { 
+      'Content-Type': 'application/json'
+    },
+    data : data
+  };
+
+  axios(config)
+  .then(function (response) {
+    console.log(JSON.stringify(response.data));
+    callback(response.data)
+  })
+  .catch(function (error) {
+    console.log(error);
+    callback(error)
+  });
+}
+auth = callback => {
     var axios = require('axios');
     var data = JSON.stringify({
     "params": {
@@ -14,7 +43,7 @@ auth = obj => {
     headers: { 
         'Content-Type': 'application/json', 
         'Authorization': 'Basic Og==', 
-        'Cookie': 'session_id=92988f65d1de15c859d3a5a9dccf36db64722a1c'
+        'Cookie': 'session_id=20c03d5c6f563829c4e36cfc43fc0f72a7cb3773'//'session_id=92988f65d1de15c859d3a5a9dccf36db64722a1c'
     },
     data : data
     };
@@ -22,21 +51,22 @@ auth = obj => {
     axios(config)
     .then(function (response) {
     console.log(JSON.stringify(response.data));
-    return JSON.stringify(response.data)
+    callback(response.data)
     })
     .catch(function (error) {
     console.log(error);
+    callback(error)
     });
 
 }
 getClient = (obj,callback) => {
     var axios = require('axios');
-
+    console.log('Cookie',obj)
     var config = {
     method: 'get',
     url: 'https://demo.kapesolusi.work/api/res.partner/?query={id,name,company_type}&filter=[["is_company","=",true]]',
     headers: { 
-        'Cookie': 'session_id=11b6db3cbb80960aa2df94bf25c947d5e939b6e2'
+        'Cookie': 'session_id='+obj.session_id
     }
     };
 
@@ -58,13 +88,13 @@ getSubscription = (obj,callback) => {
       method: 'get',
       url: 'https://demo.kapesolusi.work/api/sale.subscription/?query={id,company_id{id,name},partner_id{id,name},name,display_name,recurring_invoice_line_ids{name,display_name}}',
       headers: { 
-        'Cookie': 'session_id=802ee03041e0719988fa1ba07c23e8b0f6150ec3'
+        'Cookie':'session_id='+obj.session_id
       }
     };
     
     axios(config)
     .then(function (response) {
-      console.log(JSON.stringify(response.data));
+      console.log('subscription',JSON.stringify(response.data));
       //callback(JSON.stringify(response.data))//
       callback(response.data)
     })
@@ -81,7 +111,7 @@ getSubscriptionFilter = (obj,callback) => {
       method: 'get',
       url: 'https://demo.kapesolusi.work/api/sale.subscription/?query={id,name,display_name,recurring_invoice_line_ids,partner_id{id,name}}&filter=[["partner_id","ilike","%'+obj.term+'%"]]',
       headers: { 
-        'Cookie': 'session_id=802ee03041e0719988fa1ba07c23e8b0f6150ec3'
+        'Cookie': 'session_id='+obj.session_id
       }
     };
     
@@ -122,10 +152,9 @@ getLines_ = (obj,callback) => {
     method: 'get',
     url: 'https://demo.kapesolusi.work/api/sale.subscription/?query={id,company_id{id,name},partner_id{id,name},name,display_name,recurring_invoice_line_ids{id,name,display_name}}&filter=[["partner_id","=",15]]',
     headers: { 
-      'Cookie': 'session_id=802ee03041e0719988fa1ba07c23e8b0f6150ec3'
+      'Cookie': 'session_id='+obj.session_id
     }
   };
-//demo.kapesolusi.work/api/sale.subscription/?query={id,company_id{id,name},partner_id{id,name},name,display_name,recurring_invoice_line_ids{id,name,display_name}}&filter=[["partner_id","=",11]]
   axios(config)
   .then(function (response) {
     console.log(JSON.stringify(response.data));
@@ -144,7 +173,7 @@ console.log('GetLine Obj',obj);
     method: 'get',
     url: 'https://demo.kapesolusi.work/api/sale.subscription.line?query={id,name,display_name}&filter=[["id","=","'+obj.term+'"]]',
     headers: { 
-      'Cookie': 'session_id=802ee03041e0719988fa1ba07c23e8b0f6150ec3'
+      'Cookie': 'session_id='+obj.session_id
     }
   };
   
@@ -217,5 +246,6 @@ module.exports = {
     getTickets:getTickets,
     getLines:getLines,
     getComplaints:getComplaints,
-    saveticket:saveticket
+    saveticket:saveticket,
+    authenticate:authenticate
 }

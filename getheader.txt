@@ -1,0 +1,16 @@
+response {
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    server: 'nginx/1.14.0 (Ubuntu)',
+    date: 'Tue, 08 Nov 2022 07:15:09 GMT',
+    'content-type': 'application/json',
+    'content-length': '1720',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'access-control-allow-methods': 'POST',
+    'set-cookie': [
+      'session_id=0d714a606fa4e5c8921a2bb806db89e1596fa1d3; Expires=Mon, 06-Feb-2023 07:15:09 GMT; Max-Age=7776000; HttpOnly; Path=/'
+    ],
+    'strict-transport-security': 'max-age=15768000'
+  },

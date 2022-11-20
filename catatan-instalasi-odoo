@@ -1,0 +1,10 @@
+Postgre
+port : 5432
+hostname : localhost
+username : openpg
+password : openpgpwd
+
+destination : C:\Program Files\Odoo 15.0.20220930
+
+Odoo
+password : s9si-6b4g-zyzi
